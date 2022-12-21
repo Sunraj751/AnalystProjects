@@ -25,7 +25,7 @@
       - Total Deats per Continent (using graph)
       - Percentage of population infected in select countries (using graph)
       - Percent of population infected in the whole world (using map)
-  - **Link**: https://public.tableau.com/views/CovidWorldAnalysis_16714974078830/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
+  - **Tableau Project View**: https://public.tableau.com/views/CovidWorldAnalysis_16714974078830/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
 
 ## Data Cleaning Project
   - **Project Name**: [Housing dataset - Data Cleaning](https://github.com/Sunraj751/AnalystProjects/blob/main/Housing%20dataset%20-%20Data%20Cleaning%20.sql)
