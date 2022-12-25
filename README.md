@@ -4,8 +4,8 @@
 ## Data Exploration Project
   - **Project Name**: [COVID analysis - Data exploration](https://github.com/Sunraj751/AnalystProjects/blob/main/Housing%20dataset%20-%20Data%20Cleaning%20.sql)
   - **Overview**:
-    - Used a website to get a dataset that had stats for covid
-    - Did all sorts of data exploration using some basic SQL queries, to some advanced SQL things like using CTE's and Temp Tables.
+    - Converted COVID 19 dataset to SQL Server
+    - Did all sorts of data exploration using  SQL queries and some advanced concepts like using CTE's and Temp Tables.
   - **Functions used**: 
     - Joins, 
     - CTE's, 
@@ -41,5 +41,29 @@
     - CASE statement, 
     - CTE, 
     - ROW_NUMBER, 
-    - PARTITION BY, 
-
+    - PARTITION BY 
+    
+## Data Correlation Project
+  - **Project Name**: [Movies Correlation - Data Correlation](https://github.com/Sunraj751/AnalystProjects/blob/main/Movies%20Correlation%20-%20Data%20Correlation%20.ipynb)
+  - **Overview**
+    - Reading the dataset about movies from Kaggle and using python to find what effects Gross Revenue the most
+  - **Libraries used**
+    - pandas
+    - numpy
+    - seaborn
+    - matplotlib
+      - pyplot
+      - mlab
+  - **Functions used**
+    - numpy.mean
+    - dataframe.dtypes
+    - astype
+    - sort_values
+    - Correlation using 'pearson' method
+  - **Graphs Created**
+    - Scatter plot - matplotlib
+    - Regression Plot - seaborn
+  - **Correlations**
+    - Correlation Matrix
+      - Further pairing and sorting to find the answer to our main question
+    - Visualizing the matrix 
