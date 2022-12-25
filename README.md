@@ -8,7 +8,7 @@
 4. [Data Correlation  - Movies Correlation](#data-correlation---movies-correlation)
 5. [Data Creation - Amazon Web Scraping](#data-creation---amazon-web-scraping)
    
-# Data Exploration  - COVID 19 analysis 
+# Data Exploration - COVID 19 analysis 
   - **Project Name**: [COVID analysis - Data exploration](https://github.com/Sunraj751/AnalystProjects/blob/main/Housing%20dataset%20-%20Data%20Cleaning%20.sql)
   - **Overview**:
     - Converted COVID 19 dataset to SQL Server
@@ -34,7 +34,7 @@
       - Percent of population infected in the whole world (using map)
   - **Tableau Project View**: https://public.tableau.com/views/CovidWorldAnalysis_16714974078830/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
 
-# Data Cleaning  - Housing dataset
+# Data Cleaning - Housing dataset
   - **Project Name**: [Housing dataset - Data Cleaning](https://github.com/Sunraj751/AnalystProjects/blob/main/Housing%20dataset%20-%20Data%20Cleaning%20.sql)
   - **Overview**:
     - Used an excel file which had dataset for a housing project in Nashville
@@ -50,7 +50,7 @@
     - ROW_NUMBER, 
     - PARTITION BY 
     
-# Data Correlation  - Movies Correlation
+# Data Correlation - Movies Correlation
   - **Project Name**: [Movies Correlation - Data Correlation](https://github.com/Sunraj751/AnalystProjects/blob/main/Movies%20Correlation%20-%20Data%20Correlation%20.ipynb)
   - **Overview**
     - Used python notebook in Jupyter
