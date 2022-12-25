@@ -46,7 +46,8 @@
 ## Data Correlation Project
   - **Project Name**: [Movies Correlation - Data Correlation](https://github.com/Sunraj751/AnalystProjects/blob/main/Movies%20Correlation%20-%20Data%20Correlation%20.ipynb)
   - **Overview**
-    - Reading the dataset about movies from Kaggle and using python to find what effects Gross Revenue the most
+    - Used python notebook in Jupyter
+    - Reading the dataset about movies from Kaggle and using python and some libraries to find what effects Gross Revenue the most
   - **Libraries used**
     - pandas
     - numpy
