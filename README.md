@@ -7,7 +7,8 @@
 3. [Data Cleaning  - Housing dataset](#data-cleaning---housing-dataset)
 4. [Data Correlation  - Movies Correlation](#data-correlation---movies-correlation)
 5. [Data Creation - Amazon Web Scraping](#data-creation---amazon-web-scraping)
-   
+6. [Data Visualization - AirBnB - Tableau Project](#data-visualization---airbnb---tableau-project)
+
 # Data Exploration - COVID 19 analysis 
   - **Project Name**: [COVID analysis - Data exploration](https://github.com/Sunraj751/AnalystProjects/blob/main/Housing%20dataset%20-%20Data%20Cleaning%20.sql)
   - **Overview**:
@@ -83,3 +84,15 @@
     - datetime
     - csv
     - pandas
+
+# Data Visualization - AirBnB - Tableau Project
+- **Project Name**: [Data Visualization - AirBnB](https://public.tableau.com/app/profile/sunraj.sharma/viz/AirBnB-Toronto_16722716425580/Dashboard1?publish=yes)
+- **Overview**
+    - 5 Visualizations which are used to understand **which locality in Toronto** is best suited for buying a property for AirBnB rentals to **get gain profits**. 
+    - It also shows if **Bedrooms** and **Months** have any correlation with **gaining higher profits** 
+- **Dataset used** 
+    - Downloaded the following from: http://insideairbnb.com/get-the-data/
+        - Listings.csv
+        - Calendar.csv
+        - reviews.csv
+- **Live Project Link**: https://public.tableau.com/app/profile/sunraj.sharma/viz/AirBnB-Toronto_16722716425580/Dashboard1?publish=yes
