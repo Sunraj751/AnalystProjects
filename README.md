@@ -1,4 +1,4 @@
-# Analyst Projects
+# Data Analyst Projects
 - This repo holds all the projects for analyst portfolio.
 
 # Content
